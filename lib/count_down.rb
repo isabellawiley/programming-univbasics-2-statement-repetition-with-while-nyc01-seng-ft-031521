@@ -6,3 +6,5 @@ while num > 0 do
   puts num
   num = num - 1
 end
+
+puts "Happy New Year!"
